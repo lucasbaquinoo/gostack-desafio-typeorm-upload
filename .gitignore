@@ -3,7 +3,8 @@
 node_modules/
 build/
 temp/
-src/__tests__/
+
 
 tmp/*
 !tmp/.gitkeep
+src/__tests__
