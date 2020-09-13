@@ -7,4 +7,4 @@ temp/
 
 tmp/*
 !tmp/.gitkeep
-src/__tests__
+src/__tests__/*
